@@ -4,6 +4,8 @@ Quick start your VL nuget development with this bare-bones VL Nuget template.
 
 Based on https://github.com/vvvv/VL.IO.OSC
 
+This template is intended for projects with VL only, without C# solutions.
+
 ## Using the template
 
 1. Press `Use this template` above to create a new repo based on this one (https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
