@@ -11,9 +11,10 @@ Based on https://github.com/vvvv/VL.IO.OSC
 3. Update reference to this file in `workflows/main.yml`
 4. Update LICENSE copyright holder
 5. Replace this README.md
-6. Rename/replace the root patch and start working
+6. Generate and set the NUGET_KEY github repo secret (see https://thegraybook.vvvv.org/reference/extending/publishing.html#getting-a-nugetorg-api-key)
+7. Rename/replace the root patch and start working
 
-For more details on how to package VL Nugets, refer to the following page in the Gray Book:
+**For more details on how to package VL Nugets, refer to the following page in the Gray Book:**
 
 https://thegraybook.vvvv.org/reference/extending/publishing.html
 
